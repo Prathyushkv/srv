@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(67, 119, 181);
+}
+.form{
+    background-color: rgb(253, 252, 251);
+    display: flex;
+    flex-direction: column;
+    font-family: Arial;
+    width: 500px;
+    height: 500px;
+    margin-left: 350px;
+    margin-top: 40px;
+    border-radius: 10px;
+}    
+.login{
+    text-align: center;
+}
+.em,.pd{
+    margin-left: 30px;
+}
+.ema,.pda{
+    margin-left: 30px;
+    height: 40px;
+    margin-right: 7%;
+}
+.show{
+    padding-top: 15px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+.sgn{
+    align-items: center;
+    height: 50px;
+    margin-bottom: 40px;
+    background-color: rgb(67, 119, 181);
+    border: none;
+    color: white;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.forgot{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.dont{
+    text-align: center;
+}
+.user1,.psd1,.sign1{
+    text-decoration: none;
+    color: rgb(67, 119, 181);
+}

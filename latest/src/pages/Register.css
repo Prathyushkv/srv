@@ -1,0 +1,40 @@
+body{
+    background-color: orange;
+}
+.left{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15%;
+    margin-left: 10%;
+    align-items: center;
+    margin-right: 60%;
+    color: white;
+    height: 200px;
+}
+.join{
+    border-radius: 500px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    align-items: center;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    padding-left: 40%;
+    margin-top: -25%;
+}
+.two{
+    display: flex;
+    margin-top: 5%;
+    background-color: rgb(255, 255, 255);
+    flex-direction: column;
+    align-items: right;
+    width: 600px;
+    margin: auto;
+    height: 350px;
+    text-align: center;
+    border-top-left-radius: 5% 50%;
+    border-bottom-left-radius: 5% 50%;
+}
